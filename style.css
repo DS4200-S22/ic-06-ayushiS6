@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+}
+
+.contained {
+    float: left;
+}
+
+.blueCircle {
+    fill: "blue";
+}
+
+.redCircle {
+    fill: "red";
+}
